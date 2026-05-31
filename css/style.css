@@ -81,3 +81,9 @@ main {
 
     padding: 100px 0;
 }
+
+/* contato */
+.social-list {
+    list-style: none;
+    padding: 0;
+}
